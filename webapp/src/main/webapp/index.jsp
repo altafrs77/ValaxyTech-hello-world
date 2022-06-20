@@ -1,2 +1,2 @@
-<h1> Hello Duniya ke log !!! </h1>
+<h1> Hello Duniya ke logo !!! </h1>
 
